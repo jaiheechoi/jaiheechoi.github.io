@@ -1,3 +1,3 @@
-# btzolovaRice.github.io
+# jaiheechoi.github.io
 
 Hello World 
