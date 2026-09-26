@@ -12,4 +12,4 @@ I am an Assistant Professor in the Department of Mathematical and Statistical Sc
 
 I received my PhD in Statistics from Rice University under the supervision of Dr. Ryan Sun in the Department of Biostatistics at The University of Texas MD Anderson Cancer Center.
 
-Outside of research, I enjoy running, reading, rock climbing, and going on walks my dog, Marvin. 
+In my free time, I enjoy running, reading, rock climbing, and going on walks my dog, Marvin. 
